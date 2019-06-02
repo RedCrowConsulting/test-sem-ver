@@ -1,6 +1,6 @@
 {
-  "name": "rudimusmaximus-test",
-  "version": "0.1.0",
+  "name": "@rudimusmaximus/test",
+  "version": "1.0.0",
   "description": "test-sem-ver",
   "main": "index.js",
   "scripts": {
