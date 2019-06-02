@@ -1,0 +1,20 @@
+{
+  "name": "test-sem-ver",
+  "version": "1.0.0",
+  "description": "test-sem-ver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedCrowConsulting/test-sem-ver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RedCrowConsulting/test-sem-ver/issues"
+  },
+  "homepage": "https://github.com/RedCrowConsulting/test-sem-ver#readme"
+}
