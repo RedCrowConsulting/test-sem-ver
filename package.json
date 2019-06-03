@@ -1,6 +1,6 @@
 {
   "name": "@rudimusmaximus/tiny",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Removes all spaces from a string",
   "main": "src/index.js",
   "scripts": {
