@@ -1,18 +1,28 @@
 {
-  "name": "@rudimusmaximus/test",
+  "name": "@rudimusmaximus/tiny",
   "version": "1.0.0",
-  "description": "test-sem-ver",
+  "description": "Removes all spaces from a string",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
+    "//": [
+      "from Jonathan Wood's Medium 'How to make a beautiful, tiny npm'",
+      "package and publish it",
+      "npm publish --access=public"
+    ],
     "type": "git",
     "url": "git+https://github.com/RedCrowConsulting/test-sem-ver.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "rudimusmaximus"
+  ],
+  "author": "rudimusmaximus",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/RedCrowConsulting/test-sem-ver/issues"
   },
